@@ -1,0 +1,2 @@
+# MACHINE-LEARNING-LINEAR-REGRESSION-MINI-PROJECT
+This is my nasscom mini project.
