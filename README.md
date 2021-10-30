@@ -10,3 +10,6 @@ LinearRegression.pdf
 MACHINE_LEARNING_LINEAR_REGRESSION_NASSCOM_MINI_PROJECT.ipynb
 
 machine_learning_linear_regression_nasscom_mini_project.py
+
+COLAB LINK:-
+https://colab.research.google.com/drive/17bbvgKvhbEFWo1rrpjvTrBhPTs5FbHAa?usp=sharing
